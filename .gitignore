@@ -1,0 +1,26 @@
+# 1. DEPENDENCIES AND PACKAGE DATA
+/node_modules
+/package-lock.json
+/yarn.lock
+
+# 2. BUILD OUTPUT AND COMPILED ASSETS
+/build
+/dist
+/out
+/coverage
+
+# 3. SENSITIVE DATA AND CONFIGURATION
+.env
+.env.local
+.DS_Store
+Thumbs.db
+npm-debug.log*
+yarn-debug.log*
+
+# 4. EDITOR AND IDE CONFIG (VS Code Specific)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.eslintcache
