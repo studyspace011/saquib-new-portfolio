@@ -1,11 +1,11 @@
 // src/data.js
 export const userData = {
     name: "Saquib Ahmed",
-    tagline: "Full-Stack Developer | Innovator | Problem Solver",
+    tagline: "Frontend Developer | Innovator | Problem Solver",
     email: "saquib@example.com",
-    phone: "+91 9876543210",
+    phone: "+91 9234785677",
     linkedin: "https://linkedin.com/in/saquib-ahmed",
-    github: "https://github.com/saquibdev",
+    github: "https://github.com/Saquib9142",
     aboutSummary: "A passionate Full-Stack Developer specializing in scalable web applications and user-centric design. Focused on leveraging modern frameworks like React and Node.js to solve complex business problems."
 };
 
